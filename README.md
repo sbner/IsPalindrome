@@ -1,6 +1,6 @@
 # IsPalindrome :octocat:	
 
-# Pequeno código com uma função que testa se a string é um palíndromo ou não.
+# Pequeno código com uma função que testa se a string é um palíndromo ou não feito em javascript.
 
 ***Se achar algum erro por favor avisar :)*** 
 
