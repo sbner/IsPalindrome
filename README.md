@@ -1,4 +1,4 @@
-# IsPalindrome :robot_face:
+# IsPalindrome :octocat:	
 
 # Pequeno código com uma função que testa se a string é um palíndromo ou não.
 
