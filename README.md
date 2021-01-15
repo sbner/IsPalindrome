@@ -2,6 +2,8 @@
 
 # Pequeno código com uma função que testa se a string é um palíndromo ou não.
 
+***Se achar algum erro por favor avisar :)*** 
+
 Essa função aceita strings com símbolos e pontos de exclamação, interrogação, etc...
 Exemplos de palíndromos para testar:
 
